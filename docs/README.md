@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## What is AutoFooter?
 
-You can use the [editor on GitHub](https://github.com/AndreaCioccarelli/AutoFooter/edit/master/docs/README.md) to maintain and preview the content for your website in Markdown files.
+Auto Footer is a powerful javascript library that simplifyies website maintenance, it will only need to be setted up using javascript and then it will generate always updated footer's data (Such as year, Copyright and General Informations)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why use AutoFooter and not anything else?
 
-### Markdown
+Auto Footer is contained in a single, low-weight script that not slows down page and that will not contaminate your code
+Infact, you only need to include your script into your page and after this configure it using the best settings that you'll find
+Compared to other libraries, AutoFooter is simple, fast and efficent: all features that a good website needs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreaCioccarelli/AutoFooter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Setup
+1. Download AutoFooter.js on your local machine
+2. Open it and [customize settings]
+3. Once finished, add it to your website and [include the script into the footer]
