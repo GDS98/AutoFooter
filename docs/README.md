@@ -11,5 +11,5 @@ Compared to other libraries, AutoFooter is simple, fast and efficent: all featur
 
 ## Setup
 1. Download AutoFooter.js on your local machine
-2. Open it and [customize settings]
-3. Once finished, add it to your website and [include the script into the footer]
+2. Open it and [customize settings](https://github.com/AndreaCioccarelli/AutoFooter/wiki/Customize-Settings)
+3. Once finished, add it to your website and [include the script into the footer](https://github.com/AndreaCioccarelli/AutoFooter/wiki/Include-the-script)
