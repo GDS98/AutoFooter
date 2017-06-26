@@ -1,6 +1,6 @@
 var currentYear = new Date().getFullYear();
-var nil = "";
-var space = " ";
+const nil = "";
+const space = " ";
 
 // Settings for AutoFooter module.
 var fromYear            = 2001;
