@@ -1,8 +1,4 @@
-var currentYear = new Date().getFullYear();
-const nil = "";
-const space = " ";
-
-// Settings for AutoFooter module.
+// Settings for AutoFooter.
 var fromYear            = 2001;
 var showRange           = true;
 var showMiddleChar      = true;
@@ -14,7 +10,9 @@ var parseAsParagraph    = false;
 var finalString         = "AutoFooter Inc. All rights reserved.";
 
 
-var cc = nil;
+var currentYear = new Date().getFullYear();
+var cc = "";
+var space = " ";
 if (showCopyright) {
     switch (copyrightFormat) {
         case 0:
@@ -35,11 +33,11 @@ if (showCopyright) {
     }
 }
 
-var cr = showCopyright ? cc + space : nil;
+var cr = showCopyright ? cc + space : "";
 if (showTime) {
     if (showRange) {
         if (currentYear > fromYear) {
-            var mc = showMiddleChar ? middleChar : nil;
+            var mc = showMiddleChar ? middleChar : "";
             out(cr + fromYear + space + mc + space + currentYear);
         } else {
             // No range available
