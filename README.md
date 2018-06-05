@@ -1,5 +1,5 @@
 # AutoFooter
-Dynamically build your footer data using javascript. A no-maintenance, professional and easy to use library
+A no-maintenance, professional and easy to use library to dynamically build your footer
 
 ## What is AutoFooter?
 Auto Footer is a powerful javascript library that simplifyies website maintenance, You only need to set it up using javascript and then it will generate always updated footer's data (such as current yearear, copyright and general informations)
@@ -20,7 +20,8 @@ With AutoFooter you can build the footer that's used by almost all famous websit
 ## License
 **MIT License**
 
-Copyright (c) 2017 Andrea Cioccarelli
+```
+Copyright (c) Andrea Cioccarelli
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -39,3 +40,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
