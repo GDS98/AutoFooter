@@ -1,27 +1,25 @@
 # AutoFooter
-A no-maintenance, professional and easy to use library to dynamically build your footer
+A no-maintenance, professional and easy to use script to dynamically build your webpage footer
 
 ## What is AutoFooter?
-Auto Footer is a powerful javascript library that simplifyies website maintenance, You only need to set it up using javascript and then it will generate always updated footer's data (such as current yearear, copyright and general informations)
+Auto Footer is a powerful and easy javascript library that aims at resolving one specific and recurrent web issue: footer maintenance. The purpose of this project is giving developers the ability to create "fire-and-forget" footers, that will automatically update and change accordingly to time and preferences.
 
-## Why use AutoFooter and not anything else?
-AutoFooter is contained in a single, low-weight script that not slows down page and that will not contaminate your code,
-infact you only need to include your script into your page and configure it using the best settings that you'll find.
+## Project advantages
+AutoFooter is contained in a single, well-written and low-weighted script that doesn't slow down the page rendering process; you only need to include your script and to configure it using the settings that best fits your needs.
 
-## How will my footer look using AutoFooter?
-Your footer will look professional and easy to use, because every information is displayed with the maximum cure and responsivity. 
-With AutoFooter you can build the footer that's used by almost all famous websites 
+## Result
+Your footer will look professional and easy to use, because every information is displayed with the maximum cure and responsivness. You can even mock the footer that's used by almost every famous websites 
 
 ## Setup
-1. Download AutoFooter.js on your local machine
-2. Open it and [customize settings](https://github.com/AndreaCioccarelli/AutoFooter/wiki/Customize-Settings)
-3. Once finished, add it to your website and [include the script into the footer](https://github.com/AndreaCioccarelli/AutoFooter/wiki/Include-the-script)
+1. Download AutoFooter.js in your local project
+2. [Customize your settings](https://github.com/AndreaCioccarelli/AutoFooter/wiki/Customize-Settings)
+3. Once finished, [add it to your website](https://github.com/AndreaCioccarelli/AutoFooter/wiki/Include-the-script)
 
 ## License
 **MIT License**
 
 ```
-Copyright (c) Andrea Cioccarelli
+Copyright (c) GDS Engineering
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
