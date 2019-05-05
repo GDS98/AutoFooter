@@ -10,6 +10,7 @@ var parseAsParagraph    = false;
 var finalString         = "AutoFooter Inc. All rights reserved.";
 
 
+
 var currentYear = new Date().getFullYear();
 var cc = "";
 var space = " ";
@@ -39,13 +40,8 @@ if (showTime) {
         if (currentYear > fromYear) {
             var mc = showMiddleChar ? middleChar : "";
             out(cr + fromYear + space + mc + space + currentYear);
-        } else {
-            // No range available
-            out(cr + currentYear);
-        }
-    } else {
-        out(cr + currentYear);
-    }
+        } else out(cr + currentYear);
+    } else out(cr + currentYear);
 } else {
     out(cr);
 }
