@@ -17,7 +17,6 @@ Your footer will look professional and easy to use, because every information is
 
 ## License
 **MIT License**
-
 ```
 Copyright (c) GDS Engineering
 
